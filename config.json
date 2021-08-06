@@ -1,0 +1,17 @@
+{
+  "airtable_api_key": "",
+  "forms": [
+    {
+      "form_id": "",
+      "airtable_base": "",
+      "airtable_table": "",
+      "action": "create",
+      "mappings": [
+        {
+          "form_field_key": "",
+          "airtable_field_name": ""
+        }
+      ]
+    }
+  ]
+}
